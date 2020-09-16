@@ -13,5 +13,9 @@ What is the relationship between incarceration rates and household incomes in Ba
 
 ## Data Question - Open Data
 
-All of the data used in this project was gathered from [The Opportunity Atlas](https://www.opportunityatlas.org/)
-adsfasdf
+All of the data used in this project was gathered from [The Opportunity Atlas](https://www.opportunityatlas.org/).
+The original data files can be found in the repository [here](https://github.com/a31kim/baltimoredc-male-incarceration-income/tree/master/originaldata).
+    1. originaldata_balti_incarceration contains the data for incarceration rates in various areas within Baltimore city.
+    2. originaldata_balti_income contains the data for household incomes in various areas within Batlimore city.
+    3. originaldata_dc_incarceration contains the data for incarceration rates in various areas within Baltimore city.
+    4. originaldata_dc_income contains the data for household incomes in various areas within Batlimore city.

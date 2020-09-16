@@ -33,13 +33,13 @@ The data is best summarized with a combination graph displaying both metrics.
 
 #### Washington, D.C. Graph
 
-![](.gitbook/assets/dc_graph.png)
+![](.gitbook/assets/dc_chart.png)
 
 This graph clearly displays a negative relationship between incarceration rates and household income. Communities like Georgetown and the Naval Observatory have significantly higher incomes and much lower incarceration rates than areas like Barry Farm and the Capitol Riverfront.
 
 #### Baltimore, MD Graph
 
-![](/gitbook/assets/baltimore_graph.png)
+![](/gitbook/assets/baltimore_chart.png)
 
 Much like the previous chart (except harder to read), this combination graph clearly shows a negative relationship between incarceration rates and household income. Neighborhoods like Greenmount West face incarceration rates as high as 25%, with household incomes barely reaching $15,000. Meanwhile, areas like Mount Washington experience incarceration rates as low as 0.05%, while benefitting from household incomes in the range of $70,000 a year.
 

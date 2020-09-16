@@ -16,7 +16,16 @@ What is the relationship between incarceration rates and household incomes in Ba
 All of the data used in this project was gathered from [The Opportunity Atlas](https://www.opportunityatlas.org/).
 The original data files can be found in the repository [here](https://github.com/a31kim/baltimoredc-male-incarceration-income/tree/master/originaldata).
 
-1. originaldata_balti_incarceration contains the data for incarceration rates in various areas within Baltimore city.
-2. originaldata_balti_income contains the data for household incomes in various areas within Batlimore city.  
-3. originaldata_dc_incarceration contains the data for incarceration rates in various areas within Baltimore city.
-4. originaldata_dc_income contains the data for household incomes in various areas within Batlimore city.
+1. [originaldata_balti_incarceration](https://github.com/a31kim/baltimoredc-male-incarceration-income/blob/master/originaldata/originaldata_balti_incarceration.xlsx) contains the data for incarceration rates in various areas within Baltimore city.
+2. [originaldata_balti_income](https://github.com/a31kim/baltimoredc-male-incarceration-income/blob/master/originaldata/originaldata_balti_incarceration.xlsx) contains the data for household incomes in various areas within Batlimore city.  
+3. [originaldata_dc_incarceration](https://github.com/a31kim/baltimoredc-male-incarceration-income/blob/master/originaldata/originaldata_dc_incarceration.xlsx) contains the data for incarceration rates in various areas within Baltimore city.
+4. [originaldata_dc_income](https://github.com/a31kim/baltimoredc-male-incarceration-income/blob/master/originaldata/originaldata_dc_income.xlsx) contains the data for household incomes in various areas within Batlimore city.
+
+## Data Question - Analysis
+
+Microsoft Excel was used to answer:
+* **What is the relationship between household income and incarceration rates in Baltimore and D.C.?** Examining the trends of area-based data, comparing the fluxes between the two metrics
+* **Do Baltimore and D.C. demonstrate similar characteristics regarding the income/incarceration relationship?** Comparing data between the two cities to determine if one city displays significantly different trends
+
+## Data Answer
+

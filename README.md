@@ -9,7 +9,7 @@ The cities of Baltimore, Maryland and Washington, D.C. present similar examples 
 I chose to examine this particular metric because I recently finished Michelle Alexander's _The New Jim Crow_, which provides a detailed recount of the caste-like imprisonment system instituted by the U.S. Government over the last few decades. My hometown is technically Potomac, MD, but the data from my area wasn't significant enough to compare with Baltimore, so I decided to use D.C. instead.
 
 ## Business Question
-_**What is the relationship between incarceration rates and household incomes in Baltimore and D.C., and how does the data from the two cities compare?
+What is the relationship between incarceration rates and household incomes in Baltimore and D.C., and how does the data from the two cities compare?
 
 ## Data Question - Open Data
 

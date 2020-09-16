@@ -39,7 +39,7 @@ This graph clearly displays a negative relationship between incarceration rates 
 
 #### Baltimore, MD Graph
 
-![](/gitbook/assets/baltimore_chart.png)
+![](/gitbook/assets/balti_chart.png)
 
 Much like the previous chart (except harder to read), this combination graph clearly shows a negative relationship between incarceration rates and household income. Neighborhoods like Greenmount West face incarceration rates as high as 25%, with household incomes barely reaching $15,000. Meanwhile, areas like Mount Washington experience incarceration rates as low as 0.05%, while benefitting from household incomes in the range of $70,000 a year.
 

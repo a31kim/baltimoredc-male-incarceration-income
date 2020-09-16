@@ -1,3 +1,1 @@
-# Analyzing the Relationship Between 
-# Incarceration Rates and Household Income
-# For Males in Baltimore, MD and Washington, D.C.
+# Analyzing the Relationship Between Incarceration Rates and Household Income,  for Males in Baltimore and Washington, D.C.
